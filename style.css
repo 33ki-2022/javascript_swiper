@@ -45,3 +45,12 @@ footer {
     height: 100%;
     object-fit: cover;
 }
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: black;
+}
+
+.swiper-pagination-bullet{
+    background-color: black;
+}
